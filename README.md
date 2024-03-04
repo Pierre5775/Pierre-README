@@ -9,4 +9,11 @@ An easy-to-use program that facilitates user's task to determine **loan**, **com
 * i  = Annual percentage interest rate
   
 **Must have one missing parameter and neither V0 , a, n or i can be a negative number unless it is the missing parameter that we are looking to determine**
+<sub> calculation is determined under the following defintion* **def loan_calc(V0,a,n,i)** using the function  **(Matrix,V0,a,n,i) = loan_calc(V0,a,n,i)**
+<sub> In the table Matrix the first[] reads horizontally and the second [] next to it reads vertically
+ pas = 0.0025 is the distance between between i2 and i1 .
+ <sub> In first line of the table Matrix[2][0] we get D1 that is the first loan payment
+ <sub> D1 = a - V0 * i
+
+ 
 
