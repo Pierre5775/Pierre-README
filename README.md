@@ -14,6 +14,7 @@ An easy-to-use program that facilitates user's task to determine **loan**, **com
  pas = 0.0025 is the distance between between i2 and i1 .
  <sub> In first line of the table Matrix[2][0] we get D1 that is the first loan payment
  <sub> D1 = a - V0 * i
+ 
 
  
 
