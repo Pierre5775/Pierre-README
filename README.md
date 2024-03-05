@@ -17,7 +17,9 @@ An easy-to-use program that facilitates user's task to determine **loan**, **com
  <sub> We calculate the value of new bedt values vi1 and vi2 using mathematical equations , then we take the value in between them , and  we extract the 4th parameter to start building the table. 
  * Matrix[3][0] = a - D1 (First interest value) .**Only in the first line ,the interest paid is equal to the Total amount paid until today**
  * As we go on , the table shows the **Total amount paid until today** and **the remaining total amount**
- * We can add each year paid interest to determine the year-to-date total interest paid 
+ * We can add each year paid interest to determine the year-to-date total interest paid.
+ * If we receive or if we eneter a negative value we get the message " Impossible Calculation , Please Verify Data"
+ *  I entered a formula to adjust the rectification to zero in the last bond .
    
  
 
