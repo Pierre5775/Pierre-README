@@ -10,10 +10,15 @@ An easy-to-use program that facilitates user's task to determine **loan**, **com
   
 **Must have one missing parameter and neither V0 , a, n or i can be a negative number unless it is the missing parameter that we are looking to determine**
 <sub> calculation is determined under the following defintion* **def loan_calc(V0,a,n,i)** using the function  **(Matrix,V0,a,n,i) = loan_calc(V0,a,n,i)**
-<sub> In the table Matrix the first[] reads horizontally and the second [] next to it reads vertically
- pas = 0.0025 is the distance between between i2 and i1 .
- <sub> In first line of the table Matrix[2][0] we get D1 that is the first loan payment
- <sub> D1 = a - V0 * i
+<sub> In the table Matrix the first[] reads horizontally and the second [] next to it reads vertically.
+ <sub> In first line of the table Matrix[2][0] we get D1 which is the first loan payment
+ pas = 0.0025 is the distance between i2 and i1 that are the interest between two periods.
+ <sub> D1 = a - V0 * i is the first payment due.  Matrix[2][0]
+ <sub> We calculate the value of new bedt values vi1 and vi2 using mathematical equations , then we take the value in between them , and  we extract the 4th parameter to start building the table. 
+ * Matrix[3][0] = a - D1 (First interest value) .**Only in the first line ,the interest paid is equal to the Total amount paid until today**
+ * As we go on , the table shows the **Total amount paid until today** and **the remaining total amount**
+ * We can add each year paid interest to determine the year-to-date total interest paid 
+   
  
 
  
