@@ -1,7 +1,7 @@
 # Pierre-README
 # CS50- Python Final Project
 An easy-to-use program that facilitates user's task to determine **Loan**, **Compound interest** and **Capitalization**  .
-It calculates a bond's value, interest rate, period to pay-off, debt value paid on the bond and amount paid until today . 
+It calculates a bond's value, interest rate, pay-off period, debt value paid on the bond and amount paid until today . 
 
 ***For Loan enter L , for Compound enter C , for Capitalization enter Cap***  
 * V0 = Debt Value
