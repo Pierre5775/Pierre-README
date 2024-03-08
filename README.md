@@ -1,6 +1,7 @@
 # Pierre-README
 # CS50- Python Final Project
 # Financial Navigator
+# https://youtu.be/wSF4eElEEgI
 An easy-to-use program that facilitates user's task to determine **Loan, Certificate of Depositst** and **Compound Interest** unknown inputs ***For Loan enter L , for Certificate of Deposit enter C , for Compoud Interest enter Comp*** 
 
 ***LOAN***  
