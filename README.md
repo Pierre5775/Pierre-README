@@ -25,7 +25,8 @@ We calculate the value of new bedt values vi1 and vi2 using mathematical equatio
 Program will be prompted the initial capital, number of periods, interest rate per period i percent.
 Program determines:
 - Capital after n period
-- Aquired interest values 
+- Aquired interest values
+  
 ***COMPOUND INTEREST***
  By providing the payment value per period, the number of periods and the interest rate, the program provides an accurate value of :
 - Total interest given after n period of time
