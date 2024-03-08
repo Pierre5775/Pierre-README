@@ -32,8 +32,8 @@ Program determines:
 - Cumulative amount after n periods
 def comp_int(C,n,i):
     A = C*((1+i)**n) 
-**In Certificate of Deposits and Compound Interest No imputs could be negatve values**
-**We recommand not providing 4 parameters**
+**In Certificate of Deposits and Compound Interest No imputs could be negative values**
+**We recommand not providing 4 inputs**
 
   
     
