@@ -19,9 +19,10 @@ We calculate the value of new bedt values vi1 and vi2 using mathematical equatio
  - We add each year paid interest to determine the year-to-date total interest paid.
  - If user enters a negative value the program delivers " Impossible Calculation , Please Verify Data"
  - I entered a formula to adjust the rectification to zero in the last bond.
- - If returned value is lower than loan value 
+ - If returned value is lower than loan value
+   
 ***CERTIFICATE OF DEPOSITS***
-Program will be prompted :Initial Capital, number of periods, interest rate per period i percent.
+Program will be prompted the initial capital, number of periods, interest rate per period i percent.
 Program determines:
 - Capital after n period
 - Aquired interest values 
